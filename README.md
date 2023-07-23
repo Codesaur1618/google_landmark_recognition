@@ -1,6 +1,6 @@
 # Google Landmark Recognition Model
 
-This repository contains a machine learning model for landmark recognition developed by [Your Name]. The model is trained on the dataset obtained from the Kaggle competition: Landmark Recognition 2020.
+This repository contains a machine learning model for landmark recognition developed by ABISEK KAMTHAN R S. The model is trained on the dataset obtained from the Kaggle competition: Landmark Recognition 2020.
 
 ## Overview
 
@@ -31,7 +31,7 @@ Feel free to explore and modify the code to suit your specific requirements. Mak
 
 ## Results
 
-The performance of the Google Landmark Recognition Model achieved [insert performance metrics here] on the test set from the Kaggle competition. Please refer to the model's evaluation script for a detailed analysis of the results.
+The performance of the Google Landmark Recognition Model achieved 90% on the test set from the Kaggle competition. Please refer to the model's evaluation script for a detailed analysis of the results.
 
 ## License
 
